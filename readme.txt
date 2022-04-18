@@ -1,6 +1,6 @@
-heroku url - https://roombookingappzentask-2022.herokuapp.com/
+heroku url - https://zentask-day-41.herokuapp.com/
 
-git hub url - https://github.com/Kirans05/day-41-zentask
+git hub url -https://github.com/Kirans05/zentask-day-41
 
 endpoints =>
 a).  /bookRoom => to book room
